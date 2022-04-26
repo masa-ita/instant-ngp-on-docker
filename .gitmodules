@@ -1,0 +1,4 @@
+[submodule "docker-ubuntu-vnc-desktop-with-cuda"]
+	path = docker-ubuntu-vnc-desktop-with-cuda
+	url = https://github.com/masa-ita/docker-ubuntu-vnc-desktop-with-cuda.git
+	branch = cuda
