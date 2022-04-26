@@ -1,6 +1,8 @@
 # instant-ngp-on-docker
 ## About
 This repository allow you to run NVIDIA's instant-ngp on docker.
+
+https://github.com/NVlabs/instant-ngp
 ## How to run
 ### Step 1 : Clone this reposigory
 Clone this repogitory with --recursive flag.
